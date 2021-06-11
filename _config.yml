@@ -1,6 +1,6 @@
-title: Your awesome title
+title: JamesCopperwaite
 author:
-  name: GitHub User
+  name: JamesCopperwaite
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: Human404
+    github:  JamesCopperwaite
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
